@@ -1,2 +1,3 @@
 # task-card-php
-Finished version with php scripts
+Completed version with php scripts    
+developer version: [github.com/applepieandcrime/task-card](github.com/applepieandcrime/task-card)
